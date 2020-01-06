@@ -62,4 +62,4 @@ print("[*]Crash Safari link - https://crashsafari.com/")
 print("[*]Shorted link      - https://sub2unlock.com/1OrwPV")
 print("[*]Direct link       - //goo.gl/Vj7Eep")
 
-print("Note:- In some devices it doesn't work properly")
+print("Note:- In some latest version browser it doesn't work")
